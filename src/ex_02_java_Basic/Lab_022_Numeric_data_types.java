@@ -1,4 +1,4 @@
-package ex_02_Iava_Basic;
+package ex_02_java_Basic;
 
 public class Lab_022_Numeric_data_types {
     public static void main(String[] args) {
