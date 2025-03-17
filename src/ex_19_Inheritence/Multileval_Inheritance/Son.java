@@ -1,4 +1,4 @@
-package Multileval_Inheritance;
+package ex_19_Inheritence.Multileval_Inheritance;
 
 public class Son extends Father {
 

@@ -1,4 +1,4 @@
-package Single_Inheritence;
+package ex_19_Inheritence.Single_Inheritence;
 
 public class lab_168_SI {
     public static void main(String[] args) {

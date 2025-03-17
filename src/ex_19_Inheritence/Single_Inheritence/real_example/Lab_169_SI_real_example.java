@@ -1,4 +1,4 @@
-package Single_Inheritence.real_example;
+package ex_19_Inheritence.Single_Inheritence.real_example;
 
 public class Lab_169_SI_real_example {
     public static void main(String[] args) {
